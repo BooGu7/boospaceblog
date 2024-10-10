@@ -12,8 +12,8 @@ export async function GET(context: APIContext) {
 
   return rss({
     title: siteConfig.title,
-    description: siteConfig.subtitle || 'No description',
-    site: context.site ?? 'https://fuwari.vercel.app',
+    description: siteConfig.subtitle || 'Discover valuable tips, software insights, and creative ideas for optimizing work and life.',
+    site: context.site ?? 'https://boospace.blog',
     items: blog.map(post => {
       return {
         title: post.data.title,

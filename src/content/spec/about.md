@@ -1,9 +1,6 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Hello, I’m Tôn Thất Trọng, also known as Boo.
 
-::github{repo="saicaca/fuwari"}
+I was born in Gia Lai province and am now based in Ho Chi Minh City. I am an urban infrastructure design engineer with a strong passion for discovering new things. I love exploring advanced technologies and software that help optimize both work and everyday life.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+With a desire to share my knowledge and experiences, I created this blog to store everything I’ve learned throughout my development journey. Here, you’ll find helpful tips, valuable software, and creative ideas to improve your work and life. Join me in exploring and optimizing everything with the best tools and solutions!
